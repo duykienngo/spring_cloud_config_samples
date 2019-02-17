@@ -2,4 +2,5 @@
 
 info:
   foo: bar1
+  animal: tiger
   someList: [2, 3, 7]
